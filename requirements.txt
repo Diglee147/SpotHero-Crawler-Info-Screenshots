@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+json
+python-Levenshtein
+selenium
+python-dateutil
+lxml
+pickle-mixin
+pynput
